@@ -17,9 +17,9 @@ I am passionate about thermal systems, energy efficiency, and computational flui
 ## 🌍 Projects  
 Here are some of my featured projects:  
 
--  **[Lid-Driven Cavity](https://github.com/your-profile/Lid_Driven_Cavity)** – Numerical simulation of the Lid-Driven Cavity problem using the Fractional Step Method.  
--  **[Smith-Hutton Convection-Diffusion Problem](https://github.com/your-profile/Smith_Hutton_Convection_Diffusion_Problem)** – Numerical solution of the Smith-Hutton convection-diffusion problem using finite volume methods with CDS and UDS schemes.  
--  **[Heat Conduction in a 2D Composite Rod](https://github.com/your-profile/Heat_Conduction_in_a_2D_Composite_Rod)** – Numerical simulation of transient heat conduction in a 2D composite rod.  
+-  **[Lid-Driven Cavity](https://github.com/GiadaAlessi/Lid_Driven_Cavity)** – Numerical simulation of the Lid-Driven Cavity problem using the Fractional Step Method.  
+-  **[Smith-Hutton Convection-Diffusion Problem](https://github.com/GiadaAlessi/Smith_Hutton_Convection_Diffusion_Problem)** – Numerical solution of the Smith-Hutton convection-diffusion problem using finite volume methods with CDS and UDS schemes.  
+-  **[Heat Conduction in a 2D Composite Rod](https://github.com/GiadaAlessi/Heat_Conduction_in_a_2D_Composite_Rod)** – Numerical simulation of transient heat conduction in a 2D composite rod.  
 
 ---
 
