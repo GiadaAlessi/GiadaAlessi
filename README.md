@@ -15,7 +15,7 @@ I am passionate about thermal systems, energy efficiency, and computational flui
 ---
 
 ## 🌍 Projects  
-Here are some of my featured projects:  
+Here are some of my projects:  
 
 -  **[Lid-Driven Cavity](https://github.com/GiadaAlessi/Lid_Driven_Cavity)** – Numerical simulation of the Lid-Driven Cavity problem using the Fractional Step Method.  
 -  **[Smith-Hutton Convection-Diffusion Problem](https://github.com/GiadaAlessi/Smith_Hutton_Convection_Diffusion_Problem)** – Numerical solution of the Smith-Hutton convection-diffusion problem using finite volume methods with CDS and UDS schemes.  
